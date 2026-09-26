@@ -1,0 +1,21 @@
+.proactive-messaging-settings .inline-drawer-content label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 6px 0;
+}
+
+.proactive-messaging-settings .inline-drawer-content label.checkbox_label {
+    justify-content: flex-start;
+}
+
+.proactive-messaging-settings .inline-drawer-content input[type="number"] {
+    width: 80px;
+}
+
+.proactive-messaging-settings small {
+    display: block;
+    opacity: 0.7;
+    margin-top: 8px;
+}
